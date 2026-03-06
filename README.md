@@ -8,6 +8,9 @@ A collection of JavaScript exercises and projects completed as part of The Odin 
 - Mathematical Operations
 - Conditional Statements
 - Template Literals
+- Functions
+- Loops
+- Arrays
 
 ## Tools
 
